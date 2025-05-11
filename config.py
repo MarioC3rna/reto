@@ -1,3 +1,5 @@
+#gitignore
+
 # Pega aquí tu API key (el código que copiaste)
 ROBOFLOW_API_KEY = "UduEjKEkicHx4mYTZIXz"
 
